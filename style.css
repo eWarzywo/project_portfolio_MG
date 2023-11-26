@@ -100,7 +100,7 @@ body {
 
 .home {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('zdj.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/zdj.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment:local;
@@ -163,7 +163,7 @@ body {
   }
 }
 .about {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(parter_dwg.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/zdj2.JPG);
   background-size:cover;
   background-position: center center;
   background-attachment: local;
@@ -181,7 +181,7 @@ textarea {
   width: 100%;
 }
 .work {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(zdj3.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/zdj3.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: local;
