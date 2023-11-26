@@ -17,6 +17,9 @@ a {
 .me span {
   font-weight: bold;
 }
+nav { 
+  width: 0;
+}
 .social {
   position: fixed;
   top: 5%;

@@ -107,7 +107,7 @@ body {
 }
 @media screen and (min-width: 768px) {
   /* .home {
-    animation: aboutFlexSlide 3s 1;
+    animation: aboutFlexSlide 2s 1;
     animation-delay: 0s;
   } */
 }
@@ -118,8 +118,8 @@ body {
     flex-grow: 1;
   }
   50% {
-    -webkit-flex-grow: 3;
-    flex-grow: 3;
+    -webkit-flex-grow: 2;
+    flex-grow: 2;
   }
   100% {
     -webkit-flex-grow: 1;
